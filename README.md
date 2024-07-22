@@ -31,12 +31,26 @@ The model consists of three main components:
 * Pandas
 * NumPy
 
+**Output**:
+
+**Example 1:**
+
+![1721683970141](image/README/1721683970141.png)
+
+**Example 2:**
+
+![1721683978284](image/README/1721683978284.png)
+
+**Example 3:**
+
+![1721683987200](image/README/1721683987200.png)
+
 **Usage:**
 
 1. **Clone the repository:**
 
    ```
-   git clone https://<github_repository_url>
+   git clone git@github.com:Ishan25j/Contrastive-VisualHunt.git
    ```
 2. **Run the Colab notebook:** Open the provided Colab notebook and follow the instructions for training and evaluation.
 
