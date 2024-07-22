@@ -1,0 +1,16 @@
+Dataset
+checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv
+venv/
+ENV/
+
+# C extensions
+*.so
+
+*.pth
